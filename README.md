@@ -70,7 +70,7 @@ To customize:
 ## Screenshots
 
 ![Homepage](assets/Images/homepage.png)
-![Products Page](assets/Images/products.png)
+![Products Page](assets/Images/Products.png)
 
 ## License
 
