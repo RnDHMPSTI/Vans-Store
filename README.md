@@ -69,8 +69,8 @@ To customize:
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Products Page](screenshots/products.png)
+![Homepage](assets/images/homepage.png)
+![Products Page](assets/images/products.png)
 
 ## License
 
